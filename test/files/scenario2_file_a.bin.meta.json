@@ -1,0 +1,39 @@
+{
+  "file_name": "scenario2_file_a.bin",
+  "file_size": 20480,
+  "block_size": 4096,
+  "total_blocks": 5,
+  "file_hash": "sha256:f53300b47e3b4960002d34ecc0aac5b77e20689c1733681da5f85a691a1f36aa",
+  "blocks": [
+    {
+      "id": 0,
+      "offset": 0,
+      "size": 4096,
+      "hash": "sha256:7dc3062373af27437469e1120f2700a00723da7d5bd016ecf208906c5ae8b202"
+    },
+    {
+      "id": 1,
+      "offset": 4096,
+      "size": 4096,
+      "hash": "sha256:93fc10f0f14e9689f2d47fa8c04d5f191c1c9cc140152fa4c463df96bc271a4a"
+    },
+    {
+      "id": 2,
+      "offset": 8192,
+      "size": 4096,
+      "hash": "sha256:6e3352daa426ee8a33124bf5f256e75a872e3ccd06ce3ffe93be102837d30edd"
+    },
+    {
+      "id": 3,
+      "offset": 12288,
+      "size": 4096,
+      "hash": "sha256:474bfe1b28147b25795e90b22f6224b149e15faffa8f7d77a1e751331e566f96"
+    },
+    {
+      "id": 4,
+      "offset": 16384,
+      "size": 4096,
+      "hash": "sha256:82910bbff4b0611f691d08670f670252a18a84e0a69af1607ffc35f6f6819ee5"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "file_name": "scenario1_file_a.bin",
+  "file_size": 10240,
+  "block_size": 1024,
+  "total_blocks": 10,
+  "file_hash": "sha256:83751a1685fda9bdbaaaba5b3d497fec42f832d8f822c7678adf4a08269a6288",
+  "blocks": [
+    {
+      "id": 0,
+      "offset": 0,
+      "size": 1024,
+      "hash": "sha256:42ddc309ca4a1fd1c0e3295af67ea60cd45d33071f8e8ddbeffb8d8130e5f3f6"
+    },
+    {
+      "id": 1,
+      "offset": 1024,
+      "size": 1024,
+      "hash": "sha256:8ab90b5ffc129f26d1fac79b17effdd8803c26250c9239147aa0b1f8f087781f"
+    },
+    {
+      "id": 2,
+      "offset": 2048,
+      "size": 1024,
+      "hash": "sha256:9843f098a8fe4be09a3e80bf26bbd74c7047e181b7ca080476afe9b70d521be7"
+    },
+    {
+      "id": 3,
+      "offset": 3072,
+      "size": 1024,
+      "hash": "sha256:f5e65a40a77182810cdef80730eb95535e8b13dd09875d08359c40ae1c11f1a0"
+    },
+    {
+      "id": 4,
+      "offset": 4096,
+      "size": 1024,
+      "hash": "sha256:83681459f5560e7688b327d2ccf85ece893e64a9317ef33dcda7565e94aad982"
+    },
+    {
+      "id": 5,
+      "offset": 5120,
+      "size": 1024,
+      "hash": "sha256:64fcdb17a6979a49769139832703f0cc0cffd9b6c05237272f694fc01f15fa99"
+    },
+    {
+      "id": 6,
+      "offset": 6144,
+      "size": 1024,
+      "hash": "sha256:04c6f11f2c0b04b972ef7a9cedf2417b781ac0026a2ca324d2a1e87487d688ef"
+    },
+    {
+      "id": 7,
+      "offset": 7168,
+      "size": 1024,
+      "hash": "sha256:9fb94dbf024afbc4e5e8e265265251a15b67589f716c71e4eede6934019911f2"
+    },
+    {
+      "id": 8,
+      "offset": 8192,
+      "size": 1024,
+      "hash": "sha256:52b64daae4fc018eb1847da5772d3304895aa84ae0e86aa6a51f2b43caa46974"
+    },
+    {
+      "id": 9,
+      "offset": 9216,
+      "size": 1024,
+      "hash": "sha256:b7454d6a80abc91fd127bda7c7dfbf1fedda9e7e8f6faf025f1d177e37c98c5d"
+    }
+  ]
+}

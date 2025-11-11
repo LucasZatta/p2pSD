@@ -1,0 +1,11 @@
+{
+  "peer_id": "peer_a",
+  "listen_port": 8001,
+  "mode": "seeder",
+  "file_path": "./test/files/file_a.bin",
+  "metadata_path": "./test/files/file_a.meta.json",
+  "download_dir": "./downloads",
+  "neighbors": [],
+  "log_file": "./logs/peer_a.log"
+}
+

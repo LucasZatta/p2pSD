@@ -1,0 +1,17 @@
+{
+  "peer_id": "peer_b",
+  "listen_port": 8102,
+  "mode": "leecher",
+  "file_path": "",
+  "metadata_path": "../../../files/scenario2_file_b.bin.meta.json",
+  "download_dir": "./downloads/peer_b",
+  "neighbors": [
+    {
+      "ip": "localhost",
+      "port": 8101
+    }
+  ],
+  "log_file": "./logs/peer_b.log"
+}
+
+
